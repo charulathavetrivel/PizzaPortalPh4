@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PizzaPortalPh4.props" />
+</Project>
